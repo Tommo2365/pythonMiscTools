@@ -9,4 +9,4 @@ plt.scatter(darray)
 
 # plt.show()                                                
 
-plt.savefig("question_2_plot.pdf",bbox_inches='tight')                      # Save the plot as a pdf named '
+plt.savefig("filename.pdf",bbox_inches='tight')                      # Save the plot as a pdf named '
